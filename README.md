@@ -11,6 +11,6 @@ I'm Renate from Norway! I am  currently a student at Noroff, learning front end 
 
 ### 📫 How to reach me:
 
-You can connect with me on [Instagram](https://www.instagram.com/renayoo/) and [LinkedIn](www.linkedin.com/in/renate-c-yooyued-94091424b). Let's connect and chat about web development, dogs, nature, or anything else that interests you!
+You can connect with me on [Instagram](https://www.instagram.com/renayoo/) and [LinkedIn](www.linkedin.com/in/renate-c-yooyued-94091424b). You can also have a lok at my [Portfolio](https://renayoo.github.io/portfolio/)! Let's connect and chat about web development, dogs, nature, or anything else that interests you!
 
 Feel free to explore my repositories and projects. Don't hesitate to reach out if you have any questions or just want to say hello! 😊
