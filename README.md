@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Welcome to my profile!
 
 I'm Renate from Norway! I am  currently a student at Noroff, learning front end development. Here are a few things about me:
 
