@@ -2,7 +2,6 @@
 
 I'm Renate from Norway! I am  currently a student at Noroff, learning front end development. Here are a few things about me:
 
-- 🌱 I'm currently learning front end technologies like HTML, CSS, and JavaScript.
 - 🐶 I love dogs, animals and spending time outdoors, especially hiking and exploring nature.
 - 🎮 I enjoy gaming and going on adventures.
 - 💡 I'm interested in psychology.
